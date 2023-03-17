@@ -22,7 +22,7 @@ There are a number of developer tools that are needed for different aspects of M
 
 |Tool|Description|Documentation|
 |-|-|-|
-|Configuration Migration tool (CMT)|Transport configuration and test data from one environment to another|[Configuration Migraton tool](/power-platform/alm/configure-and-deploy-tools)|
+|Configuration Migration tool (CMT)|Transport configuration and test data from one environment to another|[Configuration Migration tool](/power-platform/alm/configure-and-deploy-tools)|
 |Package Deployer (PD)|Deploy packages to Dataverse environments where the packages contain solutions, custom code, HTML files, and more|[Deploy a package](/power-platform/alm/package-deployer-tool#deploy-a-package)|
 |Plug-in Registration tool (PRT)|Registers custom code (plug-ins, custom workflow activities), service endpoints, and more|[Register a plug-in](register-plug-in.md)|
 |SolutionPackager tool (SP)|A tool that can reversibly decompose a Dataverse compressed solution file into multiple XML files and other files so that these files can be easily managed by a source control system|[SolutionPackager tool](/power-platform/alm/solution-packager-tool?branch=phecke-package-deployer)|
